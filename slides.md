@@ -488,7 +488,7 @@ export default defineNuxtConfig({
 
 </VClicks>
 
-<img src="https://user-images.githubusercontent.com/11247099/217670797-12c33a03-ca4f-490d-a18a-ab9008b89c15.png" width="600" />
+<img v-click class="h-80 mx-auto" src="https://user-images.githubusercontent.com/11247099/217670797-12c33a03-ca4f-490d-a18a-ab9008b89c15.png" width="600" />
 
 ---
 
