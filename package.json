@@ -1,0 +1,18 @@
+{
+  "name": "talk-meetup-leipzig-03-2023-nuxt3-vue",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.5",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.24",
+    "@iconify-json/mdi": "^1.1.50"
+  }
+}
