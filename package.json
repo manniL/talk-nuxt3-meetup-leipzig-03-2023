@@ -9,7 +9,9 @@
   "dependencies": {
     "@slidev/cli": "^0.40.5",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "@vueuse/core": "^9.13.0",
+    "@vueuse/nuxt": "^9.13.0"
   },
   "devDependencies": {
     "@iconify-json/logos": "^1.1.24",
